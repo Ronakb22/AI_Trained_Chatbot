@@ -1,0 +1,229 @@
+{"intents": [
+    {
+        "tag" : "greetings",
+        "patterns": [
+            "hello",
+            "hi",
+            "hey",
+            "greetings",
+            "what's up?",
+            "how is it going?",
+            "heya",
+            "Hi there",
+            "How are you",
+            "Is anyone there?",
+            "Hey",
+            "Hola",
+            "Hello",
+            "Good day",
+            "Namaste",
+            "yo"
+        ],
+        "responses": [
+            "Hello!",
+            "Hey!",
+            "Hi!",
+            "Hi! What can I do for you?",
+            "Hi! How can I help you?",
+            "Hey there! How can I assist you?"
+        ]
+    },
+    {
+        "tag" : "goodbye",
+        "patterns" : [
+            "bye",
+            "goodbye",
+            "see you later",
+            "bbye",
+            "get lost",
+            "ok bye"
+        ],
+        "responses" : [
+            "Bye!",
+            "See you later!",
+            "Goodbye!",
+            "Till next time!",
+            "See you soon!"
+        ]
+    },
+    {
+        "tag" : "thanks",
+        "patterns" : [
+            "thanks",
+            "thank you",
+            "ok thanks",
+            "thanks a lot"
+        ],
+        "responses" : [
+            "You're welcome!",
+            "Anytime!",
+            "No problem!",
+            "Happy to help!",
+            "Anytime!",
+            "My pleasure"
+        ]
+    },
+    {
+        "tag" : "name",
+        "patterns" : [
+            "what is your name",
+            "what is your name?",
+            "whats your name?",
+            "your name?",
+            "name?",
+            "do you have a name?",
+            "who are you?",
+            "who is it?",
+            "what are you called?",
+            "what are you?"
+        ],
+        "responses" : [
+            "I don't have a name yet. I'm just a Chatbot.",
+            "I'm just a Chatbot.",
+            "You can call me Chatbot.",
+            "I'm just a Chatbot. I don't have a name yet.",
+            "I'm Chatbot, a Deep-Learning bot"
+        ]
+    },
+    {
+        "tag" : "creator",
+        "patterns" : [
+            "who created you",
+            "who made you",
+            "who is your creator",
+            "who is your maker",
+            "who is your developer",
+            "who is your programmer",
+            "who is your coder",
+            "who is your designer",
+            "who is your architect",
+            "your developer",
+            "developer?",
+            "who designed you"
+        ],
+        "responses" : [
+            "I was created by Ronak Bindra, a college student of SRM Institute of Science and Technology",
+            "I was created by Ronak Bindra",
+            "Ronak Bindra created me"
+        ]
+    },
+    {
+        "tag": "weather",
+        "patterns": [
+            "temperature",
+            "weather",
+            "how hot is it",
+            "what is the weather",
+            "what is the temperature",
+            "how is the weather today"
+        ],
+        "responses": [
+            "Hope it helped."
+        ]
+    },
+    {
+        "tag" : "help",
+        "patterns" : [
+            "What can you do?",
+            "how can you help me?",
+            "how could you help me?",
+            "help",
+            "What things can you do?"
+        ],
+        "responses" : [
+            "I'm a general chatbot.\n 1. I can help you with your queries related to SRM Institute of Science and Technology. \n 2. I can have a chat with you. You can ask me for jokes. \n I can suggest you latest songs. \n I can tell you what's the current weather."
+        ]
+    },
+    {
+        "tag": "song",
+        "patterns": [
+            "top songs",
+            "best songs",
+            "hot songs",
+            "top 10 songs",
+            "top ten songs",
+            "songs"
+        ],
+        "responses": [
+            "Hope it helped."
+        ]
+    },
+    {
+        "tag" : "srm",
+        "patterns" : [
+            "srm",
+            "what can you tell me about srm",
+            "tell me about srm",
+            "what is srm",
+            "tell about srm"
+        ],
+        "responses" : [
+            "SRM Institute of Science and Technology is a university with it's main branch located in Kattankulathur. It's other branches are in Delhi/NCR Ghaziabad, Ramapuram, Vadapalani and Tiruchirappalli"
+        ]
+    },
+    {
+        "tag" : "condition_bot",
+        "patterns" : [
+            "How are you",
+            "How are you doing",
+            "How are you feeling"
+        ],
+        "responses" : [
+            "Oh! I'm just fine, thanks for asking. :)",
+            "I'm good! How are you?",
+            "Thanks for asking, I'm good! How are you?"
+        ]
+    },
+    {
+        "tag" : "user_good",
+        "patterns" : [
+            "I'm good",
+            "I'm fine",
+            "I'm doing good",
+            "I'm doing fine",
+            "good",
+            "fine"
+        ],
+        "responses" : [
+            "That's great to hear!",
+            "That's awesome!",
+            "Well that's great!",
+            "Awesome!"
+        ]
+    },
+    {
+        "tag" : "user_bad",
+        "patterns" : [
+            "I'm not good",
+            "I'm not fine",
+            "I'm not doing good",
+            "I'm not doing fine",
+            "bad",
+            "not good",
+            "not fine",
+            "sad",
+            "I'm sad"
+        ],
+        "responses" : [
+            "I'm sorry to hear that. Is there anything I can help you with?",
+            "I'm sorry to hear that. Is there anything I can do to help you?",
+            "I'm sorry to hear that. Is there anything I can do to help you feel better?"
+        ]
+    },
+    {
+        "tag" : "jokes",
+        "patterns" : [
+            "tell me a joke",
+            "joke",
+            "tell me a funny joke",
+            "make me laugh",
+            "how about a joke"
+        ],
+        "responses" : [
+            "I went to see the doctor about my short-term memory problems. The first thing he did was make me pay in advance",
+            "I went to the doctor and said, 'Have you got anything for wind?' So he gave me a kite.",
+            "Why can’t you trust an atom? Because they make up literally everything.",
+            "Knock, knock. Who’s there? Nobel. Nobel who? No­bel, so I knock knocked."
+        ]
+    }
+]}
