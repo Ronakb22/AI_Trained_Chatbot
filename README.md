@@ -1,6 +1,6 @@
 # Chatbot Project
 
-This repository contains two key scripts for developing and training a chatbot using Natural Language Processing (NLP) and Deep Learning techniques.
+Developed an AI-powered chatbot capable of handling a variety of user queries with high accuracy. The chatbot integrates natural language processing (NLP) techniques and machine learning models to understand and respond to user inputs effectively.
 
 ## Files Included
 
